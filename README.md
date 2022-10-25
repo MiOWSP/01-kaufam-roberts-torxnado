@@ -1,1 +1,1 @@
-# Proszę umieścić tutaj kod źródłowy z Lab01/02
+program do wyznaczania prawdopodobieństwa stanu zajętości kanałów i blokady dowolnego strumienia zgłoszeń. Program zawiera "na sztywno" przypisane wartości systemowe - tj. pojemność, klasa zgłoszeń, strumienia ruchu.
